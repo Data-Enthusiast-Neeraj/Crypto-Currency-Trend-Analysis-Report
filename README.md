@@ -82,6 +82,7 @@ Business Impact & Insights
 🔍 Comparative Analysis: Monitor multiple tokens over the same period.
 
 6. Screenshots / Demos
+   
 📷 Snapshot of Report 1 – High/Low, Open/Close visual trends with KPIs
 ![Snapshot of Report](https://github.com/user-attachments/assets/0e4e522c-6765-4e70-9d45-03e253e40745)
 
